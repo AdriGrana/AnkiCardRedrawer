@@ -19,7 +19,7 @@ Tested with the latest Anki version at the time of writing (23:12:1). Performanc
 
 ## Installation and Configuration
 
-1. **Installation**: Install the addon from Anki's Add-ons menu using its code or name.
+1. **Installation**: Install the addon from [Anki's Add-ons menu](https://ankiweb.net/shared/info/237959110?cb=1711852548596) using its code or name.
 2. **Changing the Shortcut**: To change the redraw shortcut, go to Anki's Tools -> Add-ons menu, select the Redraw Cards addon, and click on "Config".
 
 ## Usage
